@@ -1,0 +1,210 @@
+
+.grass p {
+    color: black;
+    background-color: brown;
+    width: 400px;
+    border: 400px blue;
+    padding: 50px;
+    height: 305px;
+    margin: 50px;
+    border-radius: 25px;
+}
+                                       
+#thurs p{
+    color: beige;
+    font-size: 32px;
+}
+
+.farms h1 {
+    color:blue;
+}
+
+
+
+
+   
+
+.doggy {
+        font-size: 30px;
+        color:beige
+    
+ 
+    }
+
+    .doodoo {
+        color: red;
+    }
+
+
+
+
+
+body {
+    background-color: green;
+}
+h1 {
+    font-size: 100px;
+}
+img {
+    width: 600px;
+    background-color: brown;
+    border: 400px;
+}
+img{
+    position: static;
+    border: 50px solid #73ad21;
+    border-radius: 25px;
+    }
+p {
+    color: blanchedalmond;
+}
+
+#what {
+    color: whitesmoke;
+}
+
+#derz {
+    color:blueviolet;
+}
+
+div.pseudo:hover {
+    color: red;
+}
+
+@keyframes example {
+    from {background-color: red;}
+    to {background-color: yellow;}
+}
+
+ #derz {
+    width: 300px;
+    height: 100px;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 4s;
+
+}
+
+
+  
+  #derz {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+    background-color: purple;
+    border: 8px solid #4CAF50;
+    
+  }
+
+ 
+  #trains.relative {
+    position: reletive;
+    width: 400px;
+    height: 200px;
+    border: 3px solid #73ad21;
+  }
+  
+  div.trains {
+    position: absolute;
+    top: 3170px;
+    bottom:0px;
+    right: 200px;
+    width: 200px;
+    height: 100px;
+    border: 3px solid #73AD21;
+  }
+  
+/*
+.box{
+    background-color: lightgrey;
+    width: 400px;
+    border: 15px solid yellowgreen;
+    padding: 50px;
+    margin: 50px
+
+}
+
+p {
+    background-color: yellowgreen;
+    color: whitesmoke;
+    margin: 40px 100px 400px 100px
+}
+
+body {
+    background: lightblue;
+    font-size: 24px;
+}
+section > p {
+    color:green;
+}
+
+p{
+    font-size: 24px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+a.pseudo:visited {
+    color:yellow;
+}
+
+a.pseudo:hover {
+    color:red;
+}
+a.pseudo:active {
+    color: green;
+}
+
+div {
+    background: red;
+    
+    }
+
+span {
+background: greenyellow;
+height: 50px;
+width: 375px;
+display: block;
+}
+
+div.position {
+    position: absolute;
+}
+nav.sticky {
+    position: sticky;
+    top:
+}
+
+.pseudo {
+    text-decoration: none; 
+
+}
+
+h1{
+    color: black;
+    font-size: large;
+    size: 670;
+}
+
+p {
+    color:red;
+}
+
+.example {
+    color: red;
+}
+.example2{
+    color: black;
+}
+
+#container2{
+    font-size: 12px;
+}
+p 
+{color: red;
+font-size: 22px;
+text-align: left:
+}
