@@ -1,49 +1,159 @@
 
-.grass p {
-    color: black;
+.uno {
+    text-align: center;
+    color: gold;
+    background-color: navy;
+}
+
+h3 {
+    text-align: center;
+    color: gold;
+    background-color: navy;
+}
+  
+img{
+    width: 600px;
     background-color: brown;
-    width: 400px;
-    border: 400px blue;
-    padding: 50px;
-    height: 305px;
-    margin: 50px;
-    border-radius: 25px;
-}
-                                       
-#thurs p{
-    color: beige;
-    font-size: 32px;
+    border: 400px;
 }
 
-.farms h1 {
-    color:blue;
+.nav {
+    color: white;
 }
 
 
+a.pseudo:visited {
+    color:gold;
+}
 
+a.pseudo:hover {
+    color:red;
+}
+a.pseudo:active {
+    color: green;
+}
 
+.boobs{
+    background-color:cornsilk;
+}
+
+.ital{
+    position: relative;
+   top: -1150px;
+    left: 750px;
+    right:250px;
+    border: 3px solid gold;
+  }
+  
+.penne{
+    position:relative;
+    text-align: center;
+    bottom: 1000%;
+
+}
+
+.america1 {
+    margin: 3% 50% 10% 3%;
    
-
-.doggy {
-        font-size: 30px;
-        color:beige
     
- 
-    }
-
-    .doodoo {
-        color: red;
-    }
-
-
-
-
-
-body {
-    background-color: green;
 }
+
+.america2 {
+    margin: 3% 50% 10% 3%;
+}
+
+.america3 {
+    margin: 3% 50% 10% 3%;
+}
+
+.america4 {
+    margin: 3% 50% 10% 3%;
+}
+
+
+.america5 {
+    margin: 3% 50% 10% 3%;
+}
+
+.america6 {
+    margin: 3% 50% 10% 3%;
+}
+
+.america7 {
+    margin: 3% 50% 10% 3%;
+}
+
+.italy1 {
+    margin: 3% 50% 10% 3%;
+
+}
+.italy2 {
+    margin: 3% 50% 10% 3%;
+
+}
+.italy3 {
+    margin: 3% 50% 10% 3%;
+
+}
+.italy4 {
+    margin: 3% 50% 10% 3%;
+
+}
+.italy5 {
+    margin: 3% 50% 10% 3%;
+
+}
+.italy6 {
+    margin: 3% 50% 10% 3%;
+
+}
+
+
+.mexico1 {
+    margin: 3% 50% 10% 3%;
+}
+.mexico2 {
+    margin: 3% 50% 10% 3%;
+}
+.mexico3 {
+    margin: 3% 50% 10% 3%;
+}
+.mexico4 {
+    margin: 3% 50% 10% 3%;
+}
+.mexico5 {
+    margin: 3% 50% 10% 3%;
+}
+.mexico6 {
+    margin: 3% 50% 10% 3%;
+}
+
+.boobs1 {
+   position:absolute;
+   left:30%;
+   top:51%;
+   right:42%;
+
+}
+
+.penne {
+    position:absolute;
+   left:30%;
+   top:42%;
+   right:42%;
+}
+
+
+
+
+
+/*
+
 h1 {
-    font-size: 100px;
+    color:black;
+    font-size: 55px;
+    position: absolute;
+    left: 500px;
 }
 img {
     width: 600px;
@@ -88,7 +198,7 @@ div.pseudo:hover {
 
   
   #derz {
-    position: -webkit-sticky; /* Safari */
+    position: -webkit-sticky; /* Safari
     position: sticky;
     top: 0;
     background-color: purple;
@@ -113,8 +223,44 @@ div.pseudo:hover {
     height: 100px;
     border: 3px solid #73AD21;
   }
-  
-/*
+
+.grass p {
+    color: black;
+    background-color: brown;
+    width: 400px;
+    border: 400px blue;
+    padding: 50px;
+    height: 305px;
+    margin: 50px;
+    border-radius: 25px;
+}
+                                       
+#thurs p{
+    color: beige;
+    font-size: 32px;
+}
+
+.farms h1 {
+    color:blue;
+}
+ 
+
+.doggy {
+        font-size: 30px;
+        color:beige
+    
+ 
+    }
+
+    .doodoo {
+        color: red;
+    }
+
+
+body {
+    background-color: white;
+}
+
 .box{
     background-color: lightgrey;
     width: 400px;
@@ -208,3 +354,5 @@ p
 font-size: 22px;
 text-align: left:
 }
+
+ */
